@@ -82,17 +82,17 @@ PedComponents.Types = {
 	["Loadouts"] = 0x83887E88,
 
 	-- Multiplayer:
-	["Masks(MP)"] = 0x7505EF42, 
-	["RingsRightHand(MP)"] = 0x7A6BBD0B, 
-	["RingsLeftHand(MP)"] = 0xF16A1D23, 
-	["Bracelets(MP)"] = 0x7BC10759, 
-	["Gauntlets(MP)"] = 0x91CE9B20, 
-	["LegAttachments(MP)"] = 0xF1542D11, 
-	["Armor(MP)"] = 0x72E6EF74, 
-	["Ponchos(MP)"] = 0xAF14310B, 
-	["Mustache(MP)"] = 0xF8016BCA, 
-	["Coats(MP)"] = 0x662AC34,  
-	["Skirts(MP)"] = 0xA0E3AB7F, 
+	["Masks_MP"] = 0x7505EF42, 
+	["RingsRightHand_MP"] = 0x7A6BBD0B, 
+	["RingsLeftHand_MP"] = 0xF16A1D23, 
+	["Bracelets_MP"] = 0x7BC10759, 
+	["Gauntlets_MP"] = 0x91CE9B20, 
+	["LegAttachments_MP"] = 0xF1542D11, 
+	["Armor_MP"] = 0x72E6EF74, 
+	["Ponchos_MP"] = 0xAF14310B, 
+	["Mustache_MP"] = 0xF8016BCA, 
+	["Coats_MP"] = 0x662AC34,  
+	["Skirts_MP"] = 0xA0E3AB7F, 
 }
 
 PedComponents.Eyewear = {
